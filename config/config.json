@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbaDDBE29ab79a1214cc2D9CB4B4e7A2e52358F5E",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xbaDDBE29ab79a1214cc2D9CB4B4e7A2e52358F5E",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Dino Kids Club",
+  "SYMBOL": "DKC",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dino-kids-club",
+  "SHOW_BACKGROUND": true
+}
