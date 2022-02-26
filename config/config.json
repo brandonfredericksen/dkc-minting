@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xbaDDBE29ab79a1214cc2D9CB4B4e7A2e52358F5E",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xbaDDBE29ab79a1214cc2D9CB4B4e7A2e52358F5E",
+  "CONTRACT_ADDRESS": "0x289DA1CFEb1EE57B3c5718E482f1835C0Dc64d97",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x289da1cfeb1ee57b3c5718e482f1835c0dc64d97",
   "NETWORK": {
     "NAME": "Rinkeby",
     "SYMBOL": "ETH",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.06,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dino-kids-club",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dino-kids-club-v2",
   "SHOW_BACKGROUND": true
 }
